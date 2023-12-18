@@ -1,0 +1,1 @@
+Included are the Z-matrices from Nan and MacKerell, "Balancing Group I Monoatomic Ion-Polar Compound Interactions for Condensed Phase Simulation in the Polarizable Drude Force Field," Submitted for publication.  
